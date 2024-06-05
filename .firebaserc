@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "outwork-f8f3f"
+  },
+  "targets": {
+    "outwork-f8f3f": {
+      "hosting": {
+        "profile-outwork": [
+          "outwork-f8f3f"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
